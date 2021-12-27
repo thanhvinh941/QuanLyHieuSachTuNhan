@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="lib/mssql-jdbc-9.4.0.jre11.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-6.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-javaflow.jar"/>
+	<classpathentry kind="lib" path="lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="lib/commons-javaflow-1209105.jar"/>
+	<classpathentry kind="lib" path="lib/png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
